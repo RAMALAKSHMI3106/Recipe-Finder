@@ -2,7 +2,7 @@
 
 A simple and responsive React application that helps users search for delicious recipes using a recipe API. Users can explore recipes, view ingredients, and discover new dishes with an easy-to-use interface.
 
-## ✨ Features
+## Features
 
 -  Search recipes by name
 -  View recipe details
@@ -10,7 +10,7 @@ A simple and responsive React application that helps users search for delicious 
 -  Fast and user-friendly interface
 -  API integration for recipe data
 
-##  Built With
+## Built With
 
 - React.js
 - Vite
@@ -30,7 +30,7 @@ Recipe-Finder/
 └── README.md
 ```
 
-##  Getting Started
+## Getting Started
 
 1. Clone the repository
 
