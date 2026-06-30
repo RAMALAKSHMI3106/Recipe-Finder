@@ -2,10 +2,6 @@
 
 A simple and responsive React application that helps users search for delicious recipes using a recipe API. Users can explore recipes, view ingredients, and discover new dishes with an easy-to-use interface.
 
-## Live Demo
-
-https://ramalakshmi3106.github.io/Recipe-Finder/
-
 ## ✨ Features
 
 -  Search recipes by name
@@ -22,6 +18,17 @@ https://ramalakshmi3106.github.io/Recipe-Finder/
 - CSS3
 - JavaScript (ES6+)
 - Recipe API
+
+## Project Structure
+
+```
+Recipe-Finder/
+├── public/
+├── src/
+├── package.json
+├── vite.config.js
+└── README.md
+```
 
 ##  Getting Started
 
@@ -47,17 +54,6 @@ npm install
 
 ```bash
 npm run dev
-```
-
-## Project Structure
-
-```
-Recipe-Finder/
-├── public/
-├── src/
-├── package.json
-├── vite.config.js
-└── README.md
 ```
 
 ## Live Demo
